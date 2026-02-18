@@ -11,4 +11,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0058-length-of-last-word) |
+| [2942-find-words-containing-character](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/2942-find-words-containing-character) |
+## Array
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->

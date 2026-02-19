@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0541-reverse-string-ii) |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [2942-find-words-containing-character](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -46,4 +48,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

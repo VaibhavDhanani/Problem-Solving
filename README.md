@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0541-reverse-string-ii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0541-reverse-string-ii) |
+| [0761-special-binary-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
@@ -62,8 +63,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0761-special-binary-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0761-special-binary-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->

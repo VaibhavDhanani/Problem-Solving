@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0069-sqrtx) |
 | [1903-largest-odd-number-in-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -61,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0049-group-anagrams) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

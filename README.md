@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0125-valid-palindrome) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0069-sqrtx) |
 | [1903-largest-odd-number-in-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -95,4 +97,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->

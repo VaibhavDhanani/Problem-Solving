@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0693-binary-number-with-alternating-bits) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0761-special-binary-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1903-largest-odd-number-in-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 | [2942-find-words-containing-character](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -34,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0771-jewels-and-stones](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0771-jewels-and-stones) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -72,4 +75,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0761-special-binary-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->

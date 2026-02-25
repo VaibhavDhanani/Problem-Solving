@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0693-binary-number-with-alternating-bits) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String
 |  |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0049-group-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2942-find-words-containing-character](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -69,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0761-special-binary-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0761-special-binary-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Binary Search
 |  |
 | ------- |

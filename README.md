@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0079-word-search) |
 | [0724-find-pivot-index](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [2942-find-words-containing-character](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/2942-find-words-containing-character) |
@@ -45,11 +46,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0771-jewels-and-stones](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0771-jewels-and-stones) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |

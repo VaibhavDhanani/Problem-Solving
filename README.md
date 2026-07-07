@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0079-word-search) |
+| [0724-find-pivot-index](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [2942-find-words-containing-character](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/2942-find-words-containing-character) |
@@ -122,5 +123,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

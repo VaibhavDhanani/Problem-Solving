@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0069-sqrtx) |
 | [1903-largest-odd-number-in-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Trie
 |  |
 | ------- |

@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0079-word-search) |
 | [0724-find-pivot-index](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [2942-find-words-containing-character](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/2942-find-words-containing-character) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0125-valid-palindrome](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0541-reverse-string-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0761-special-binary-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0761-special-binary-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Binary Search
 |  |

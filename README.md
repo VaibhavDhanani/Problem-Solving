@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [2942-find-words-containing-character](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/2942-find-words-containing-character) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Trie
 |  |

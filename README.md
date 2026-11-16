@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0069-sqrtx) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0507-perfect-number](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |

@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2942-find-words-containing-character](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/2942-find-words-containing-character) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0761-special-binary-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Binary Search
 |  |
 | ------- |

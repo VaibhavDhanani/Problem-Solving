@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1260-shift-2d-grid](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1260-shift-2d-grid) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
@@ -173,4 +176,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0856-score-of-parentheses) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

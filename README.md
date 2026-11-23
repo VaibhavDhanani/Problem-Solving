@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0069-sqrtx) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |

@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2942-find-words-containing-character](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/2942-find-words-containing-character) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Trie
@@ -184,4 +186,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->

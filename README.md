@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0283-move-zeroes](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0724-find-pivot-index](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0877-stone-game) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 ## Math

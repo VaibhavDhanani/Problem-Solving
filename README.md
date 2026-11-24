@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0541-reverse-string-ii) |

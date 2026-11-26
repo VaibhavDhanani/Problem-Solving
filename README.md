@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
+| [3360-stone-removal-game](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/1260-shift-2d-grid) |
+| [3360-stone-removal-game](https://github.com/VaibhavDhanani/Problem-Solving/tree/master/3360-stone-removal-game) |
 ## Backtracking
 |  |
 | ------- |
